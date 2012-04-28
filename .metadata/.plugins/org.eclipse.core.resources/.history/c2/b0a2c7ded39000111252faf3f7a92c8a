@@ -1,0 +1,56 @@
+package pt.ipl.estg.dei.miecm.rc;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class TransformData {
+	private ArrayList<String> content;
+
+	public TransformData() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public ArrayList<String> readFile(String fileName) {
+		String line = "";
+		Scanner scanner = null;
+		ArrayList<String> content = new ArrayList<String>();
+
+		try {
+
+			scanner = new Scanner("/Users/jonibatista/Downloads/");
+
+			// first use a Scanner to get each line
+			while (scanner.hasNextLine()) {
+				line = scanner.nextLine();
+				System.out.println(Thread.currentThread().getStackTrace()[2]
+						.getLineNumber() + " - A: " + line);
+				content.add(line);
+			}
+
+			scanner.close();
+
+		} catch (Exception ex) {
+			ex.printStackTrace();
+		}
+
+		return content;
+	}
+
+	public StringBuilder readFile2(String fileName) {
+		FileReader fr = new FileReader(this.getClass().getResource(filename));
+		BufferedReader br = new BufferedReader(fr);
+		int linecount = 0;
+		StringBuilder myline = new StringBuilder();
+		String line = "";
+
+		while ((linecount < 2) && ((line = br.readLine()) != null)) {
+			myline.append(line);
+			linecount++;
+		}
+
+		// now you have two lines in myline. close readers/streams etc
+		return myline.toString();
+	}
+}

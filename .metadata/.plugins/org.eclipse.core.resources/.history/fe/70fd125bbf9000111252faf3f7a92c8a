@@ -1,0 +1,48 @@
+package pt.ipl.estg.dei.miecm.rc;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Main {
+	public static final String FILE_A = "BD-A_source.txt";
+	public static final String FILE_B = "BD-B_source.txt";
+	public static final String FILE_A_CLEAN = "BD-A_clean.txt";
+	public static final String FILE_B_CLEAN = "BD-B_clean.txt";
+
+	private String[] content;
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	private ArrayList<String> readFile(String fileName) {
+		String line = "";
+		Scanner scanner = null;
+		ArrayList<String> content = new ArrayList<String>();
+
+		try {
+			scanner = new Scanner(new FileReader(fileName));
+
+			// first use a Scanner to get each line
+			while (scanner.hasNextLine()) {
+				line = scanner.nextLine();
+				content.add(line);
+			}
+		} catch (FileNotFoundException ex) {
+			System.out.println(ex.getMessage());
+		} finally {
+			// ensure the underlying stream is always closed
+			// this only has any effect if the item passed to the Scanner
+			// constructor implements Closeable (which it does in this case).
+			scanner.close();
+		}
+
+		return content;
+	}
+}
