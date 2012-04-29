@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
+import java.text.Normalizer;
 import java.util.ArrayList;
 
 public class TransformData {
@@ -39,8 +40,12 @@ public class TransformData {
 
 			while ((line = reader.readLine()) != null) {
 
+				// remove accents markes
+				line = Normalizer.normalize(line, Normalizer.Form.NFD);
+				line = line.replaceAll("[^\\p{ASCII}]", "").toLowerCase();
+
 				content.add(line);
-				System.out.println(line);
+				System.out.println(content.get(content.size() - 1));
 			}
 
 		} catch (Exception e) {
