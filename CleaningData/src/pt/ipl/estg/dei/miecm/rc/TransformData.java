@@ -3,6 +3,7 @@ package pt.ipl.estg.dei.miecm.rc;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileWriter;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
@@ -11,15 +12,20 @@ public class TransformData {
 
 	public TransformData() {
 		// TODO Auto-generated constructor stub
+		content = new ArrayList<String>();
 	}
 
 	/**
+	 * <p>
+	 * Clean and keeps the data in memory.
+	 * </p>
+	 * 
 	 * @param fileName
-	 * @return
+	 *            the data source name
 	 */
-	public ArrayList<String> cleanData(String fileName) {
+	public void cleanData(String fileName) {
 		String line = "";
-		ArrayList<String> content = new ArrayList<String>();
+		content.clear();
 
 		try {
 			File file = new File(this.getClass().getClassLoader()
@@ -40,11 +46,32 @@ public class TransformData {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
-		return content;
 	}
 
-	public void saveFile() {
+	/**
+	 * <p>
+	 * Write the clean data to file.
+	 * </p>
+	 * 
+	 * @param fileName
+	 *            the output data source file
+	 */
+	public void saveFile(String fileName) {
+		FileWriter writer;
 
+		try {
+			writer = new FileWriter(this.getClass().getClassLoader()
+					.getResource(fileName).getPath(), true);
+
+			for (String line : content) {
+				writer.write(line);
+			}
+
+			writer.flush();
+			writer.close();
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 }
