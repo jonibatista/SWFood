@@ -5,7 +5,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
-import java.text.Normalizer;
 import java.util.ArrayList;
 
 public class TransformData {
@@ -41,8 +40,11 @@ public class TransformData {
 			while ((line = reader.readLine()) != null) {
 
 				// remove accents markes
-				line = Normalizer.normalize(line, Normalizer.Form.NFD);
-				line = line.replaceAll("[^\\p{ASCII}]", "").toLowerCase();
+				line = replaceAccentsBySimilarChar(line.toLowerCase());
+
+				// remove special chars... it's only allowed alphanumeric and space
+				// characters
+				line = line.replaceAll("[^a-zA-Z0-9 ]+","");
 
 				content.add(line);
 				System.out.println(content.get(content.size() - 1));
@@ -80,5 +82,49 @@ public class TransformData {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+	}
+
+	/**
+	 * <p>
+	 * Replacing accents by their counterparts
+	 * </p>
+	 * 
+	 * @param str
+	 *            string with accents
+	 * @return string without accents
+	 */
+	public String replaceAccentsBySimilarChar(String str) {
+
+		// replace by <i><p>a</p><i>
+		str = str.replaceAll("[ˆ‡‹]+", "a");
+
+		// replace by <i><p>A</p><i>
+		str = str.replaceAll("[ËçåÌ]+", "A");
+
+		// replace by <i><p>e</p><i>
+		str = str.replaceAll("[]+", "e");
+
+		// replace by <i><p>E</p><i>
+		str = str.replaceAll("[éƒæ]+", "E");
+
+		// replace by <i><p>i</p><i>
+		str = str.replaceAll("[“’”]+", "i");
+
+		// replace by <i><p>I</p><i>
+		str = str.replaceAll("[íêë]+", "I");
+
+		// replace by <i><p>o</p><i>
+		str = str.replaceAll("[˜—›™]+", "o");
+
+		// replace by <i><p>O</p><i>
+		str = str.replaceAll("[ñîïÍ]+", "O");
+
+		// replace by <i><p>u</p><i>
+		str = str.replaceAll("[œ]+", "u");
+
+		// replace by <i><p>U</p><i>
+		str = str.replaceAll("[ôòó]+", "U");
+
+		return str;
 	}
 }

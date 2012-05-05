@@ -3,7 +3,7 @@
 bin/**
 
 #eclipse ignore personal stuff 
-*.metadata
+*.metadata/
 *.project
 *.settings/
 *.classpath
