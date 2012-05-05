@@ -48,6 +48,8 @@ public class TransformData {
 				System.out.println(content.get(content.size() - 1));
 			}
 
+			reader.close();
+
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

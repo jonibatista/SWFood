@@ -11,54 +11,54 @@ Leite Vaca UHT magro
 Leite Vaca UHT meio gordo
 Leite Vaca UHT aromatizado meio gordo
 Leite Vaca Condensado
-Leite Vaca em p√≥ gordo
-Leite Vaca em p√≥ magro
-Leite Vaca em p√≥ meio gordo
+Leite Vaca em pó gordo
+Leite Vaca em pó magro
+Leite Vaca em pó meio gordo
 Leite Vaca evaporado
 Nata maturada pasteurizada 30% gordura
-Nata n√£o maturada pasteurizada 33% gordura
-Nata n√£o maturada pasteurizada 36% gordura
-Nata n√£o maturada pasteurizada para caf√©, 15% gordura
-Nata n√£o maturada UHT 35% gordura
+Nata não maturada pasteurizada 33% gordura
+Nata não maturada pasteurizada 36% gordura
+Nata não maturada pasteurizada para café, 15% gordura
+Nata não maturada UHT 35% gordura
 Nata para bater pasteurizada 34% gordura
-Queijo Alcoba√ßa
+Queijo Alcobaça
 Queijo Alverca curado
 Queijo Alverca fresco
-Queijo Azeit√£o
+Queijo Azeitão
 Queijo "Camembert" Nacional
 Queijo Creme para barrar
 Queijo "Emmental"
-Queijo √âvora
+Queijo Évora
 Queijo Flamengo 30% gordura
 Queijo Flamengo 45% gordura
-Queijo fresco a√ßucarado com sabor a fruta
+Queijo fresco açucarado com sabor a fruta
 Queijo Fundido 40% gordura
 Queijo Ilha
-Queijo Parmes√£o
-Queijo "Quark" a√ßucarado magro com sabor a fruta
+Queijo Parmesão
+Queijo "Quark" açucarado magro com sabor a fruta
 Queijo "Quark" natural magro
 Queijo "Quark" natural meio gordo
-Requeij√£o 8% de prote√≠na
-Requeij√£o 13% de prote√≠na
+Requeijão 8% de proteína
+Requeijão 13% de proteína
 Queijo "Roquefort"
 Queijo Serra curado
 Queijo Serra fresco
 Queijo Serpa
-Iogurte Natural s√≥lido magro
-Iogurte Natural s√≥lido meio gordo
-Iogurte A√ßucarado batido gordo com fruta
-Iogurte A√ßucarado batido gordo com cereais e fruta
-Iogurte A√ßucarado batido meio gordo
-Iogurte A√ßucarado batido meio gordo com fruta
-Iogurte A√ßucarado l√≠quido meio gordo
-Iogurte A√ßucarado com edulcorante de s√≠ntese, batido magro com cereais
-Iogurte A√ßucarado com edulcorante de s√≠ntese, s√≥lido magro
-Iogurte Aromatizado a√ßucarado batido gordo
-Iogurte Aromatizado a√ßucarado batido meio gordo
-Iogurte Aromatizado a√ßucarado l√≠quido magro
-Iogurte Aromatizado a√ßucarado l√≠quido meio gordo
-Iogurte Aromatizado a√ßucarado s√≥lido magro
-Iogurte Aromatizado a√ßucarado s√≥lido meio gordo
+Iogurte Natural sólido magro
+Iogurte Natural sólido meio gordo
+Iogurte Açucarado batido gordo com fruta
+Iogurte Açucarado batido gordo com cereais e fruta
+Iogurte Açucarado batido meio gordo
+Iogurte Açucarado batido meio gordo com fruta
+Iogurte Açucarado líquido meio gordo
+Iogurte Açucarado com edulcorante de síntese, batido magro com cereais
+Iogurte Açucarado com edulcorante de síntese, sólido magro
+Iogurte Aromatizado açucarado batido gordo
+Iogurte Aromatizado açucarado batido meio gordo
+Iogurte Aromatizado açucarado líquido magro
+Iogurte Aromatizado açucarado líquido meio gordo
+Iogurte Aromatizado açucarado sólido magro
+Iogurte Aromatizado açucarado sólido meio gordo
 Gelado caseiro com bolachas e natas
 Gelado caseiro com palitos la Reine
 Gelado de leite
@@ -76,25 +76,25 @@ Cabrito Costeleta crua
 Cabrito Costeleta grelhada
 Cabrito Peito cru
 Cabrito Peito estufado com azeite e margarina
-Cabrito Peito estufado com azeite e √≥leo alimentar
-Cabrito Peito estufado com manteiga e √≥leo alimentar
-Cabrito Peito estufado com margarina e √≥leo alimentar
+Cabrito Peito estufado com azeite e óleo alimentar
+Cabrito Peito estufado com manteiga e óleo alimentar
+Cabrito Peito estufado com margarina e óleo alimentar
 Cabrito Peito estufado, sem molho
 Cabrito Peito grelhado
 Cabrito Perna crua
 Cabrito Perna assada com azeite e margarina
-Cabrito Perna assada com √≥leo alimentar e margarina
+Cabrito Perna assada com óleo alimentar e margarina
 Cabrito Perna assada, sem molho
 Caldeirada de cabrito com azeite e banha
 Caldeirada de cabrito com azeite e margarina
 Carneiro Costeleta crua
 Carneiro Costeleta ou Perna magra frita com margarina, sem molho
-Carneiro P√° crua
-Carneiro P√° assada com azeite e margarina
-Carneiro P√° assada com margarina
-Carneiro P√° assada, sem molho
-Carneiro P√° cozida
-Carneiro P√° estufada, sem molho
+Carneiro Pá crua
+Carneiro Pá assada com azeite e margarina
+Carneiro Pá assada com margarina
+Carneiro Pá assada, sem molho
+Carneiro Pá cozida
+Carneiro Pá estufada, sem molho
 Carneiro Peito gordo cru
 Carneiro Peito gordo cozido
 Carneiro Perna gorda crua
@@ -111,19 +111,19 @@ Cavalo Alcatra crua
 Cavalo Alcatra frita com manteiga
 Cavalo Alcatra frita com margarina
 Cavalo Alcatra frita, sem molho
-Cavalo Lombo ou P√° crua
-Cavalo Lombo ou P√° assada com azeite e manteiga
-Cavalo Lombo ou P√° assada com margarina
-Cavalo Lombo ou P√° assada, sem molho
-Cavalo Lombo ou P√° frita com manteiga
-Cavalo Lombo ou P√° frita com margarina
+Cavalo Lombo ou Pá crua
+Cavalo Lombo ou Pá assada com azeite e manteiga
+Cavalo Lombo ou Pá assada com margarina
+Cavalo Lombo ou Pá assada, sem molho
+Cavalo Lombo ou Pá frita com manteiga
+Cavalo Lombo ou Pá frita com margarina
 Porco Costeleta gorda crua
 Porco Costeleta gorda grelhada
 Porco Costeleta meio gorda crua
 Porco Costeleta meio gorda estufada com azeite e banha
 Porco Costeleta meio gorda estufada com azeite e margarina
 Porco Costeleta meio gorda estufada com margarina
-Porco Costeleta meio gorda estufada com √≥leo alimentar e banha
+Porco Costeleta meio gorda estufada com óleo alimentar e banha
 Porco Costeleta meio gorda estufada, sem molho
 Porco Costeleta meio gorda grelhada
 Porco Costeleta meio gorda panada
@@ -132,13 +132,13 @@ Porco Entrecosto cozido
 Porco Entrecosto estufado com azeite e banha
 Porco Entrecosto estufado com azeite e margarina
 Porco Entrecosto estufado com margarina
-Porco Entrecosto estufado com √≥leo alimentar e banha
+Porco Entrecosto estufado com óleo alimentar e banha
 Porco Entrecosto estufado, sem molho
 Porco Entrecosto grelhado
 Porco Lombo cru
 Porco Lombo assado com azeite e margarina
 Porco Lombo assado com margarina
-Porco Lombo assado com √≥leo alimentar e margarina
+Porco Lombo assado com óleo alimentar e margarina
 Porco Lombo assado, sem molho
 Porco Lombo frito com manteiga
 Porco Lombo frito com margarina
@@ -147,33 +147,33 @@ Porco Lombo panado
 Porco Perna gorda crua
 Porco Perna gorda assada com azeite e margarina
 Porco Perna gorda assada com margarina
-Porco Perna gorda assada com √≥leo alimentar e margarina
+Porco Perna gorda assada com óleo alimentar e margarina
 Porco Perna gorda assada, sem molho
 Porco Perna gorda grelhada
 Porco Perna magra crua
 Porco Perna magra assada com azeite e margarina
 Porco Perna magra assada com margarina
-Porco Perna magra assada com √≥leo alimentar e margarina
+Porco Perna magra assada com óleo alimentar e margarina
 Porco Perna magra assada, sem molho
 Porco Perna magra estufada com azeite e banha
 Porco Perna magra estufada com azeite e margarina
 Porco Perna magra estufada com margarina
-Porco Perna magra estufada com √≥leo alimentar e banha
+Porco Perna magra estufada com óleo alimentar e banha
 Porco Perna magra estufada, sem molho
 Porco Perna magra grelhada
 Porco Toucinho entremeado fresco cru
-Porco Toucinho entremeado fresco, grelhado sem adi√ß√£o de sal
+Porco Toucinho entremeado fresco, grelhado sem adição de sal
 Porco Toucinho entremeado ligeiramente salgado, cru
-Porco Toucinho entremeado ligeiramente salgado, cozido sem adi√ß√£o de sal
+Porco Toucinho entremeado ligeiramente salgado, cozido sem adição de sal
 Vaca Bife cru
 Vaca Bife frito com manteiga
 Vaca Bife frito, sem molho
 Vaca Bife grelhado
 Vaca Lombo magro cru
-Vaca Lombo magro assado com azeite, manteiga e √≥leo alimentar
+Vaca Lombo magro assado com azeite, manteiga e óleo alimentar
 Vaca Lombo magro assado com azeite e margarina
 Vaca Lombo magro assado com margarina
-Vaca Lombo magro assado com √≥leo alimentar e margarina
+Vaca Lombo magro assado com óleo alimentar e margarina
 Vaca Lombo magro assado, sem molho
 Vitela Costeleta crua
 Vitela Costeleta frita com margarina
@@ -181,8 +181,8 @@ Vitela Costeleta frita, sem molho
 Vitela Costeleta grelhada
 Vitela Lombo cru
 Vitela Lombo assado com azeite e margarina
-Vitela Lombo assado com azeite, margarina e √≥leo alimentar
-Vitela Lombo assado com margarina e √≥leo alimentar
+Vitela Lombo assado com azeite, margarina e óleo alimentar
+Vitela Lombo assado com margarina e óleo alimentar
 Vitela Lombo assado, sem molho
 Vitela Lombo frito com margarina
 Vitela Lombo frito, sem molho
@@ -190,73 +190,73 @@ Vitela Lombo grelhado
 Vitela Peito magro cru
 Vitela Peito magro cozido
 Vitela Peito magro estufado com azeite e margarina
-Vitela Peito magro estufado com azeite, margarina e √≥leo alimentar
-Vitela Peito magro estufado com margarina e √≥leo alimentar
+Vitela Peito magro estufado com azeite, margarina e óleo alimentar
+Vitela Peito magro estufado com margarina e óleo alimentar
 Vitela Peito magro estufado, sem molho
 Hamburger de porco, frito, sem molho
 Hamburger de porco, grelhado
 Hamburger de vaca, cru
 Hamburger de vaca, grelhado
-Alm√¥ndega cozinhada
-Chamu√ßa
+Almôndega cozinhada
+Chamuça
 Croquete
 Empada
 Pastel folhado
 Rissol
-Cora√ß√£o de porco, cru
-Cora√ß√£o de porco, estufado com banha e margarina
-Cora√ß√£o de vaca, cru
-Cora√ß√£o de vaca, cozido
-Cora√ß√£o de vaca, estufado com banha e margarina
-Cora√ß√£o de vitela, cru
-F√≠gado de porco, cru
-F√≠gado de porco, frito com margarina e banha
-F√≠gado de porco, frito, sem molho
-F√≠gado de porco, grelhado
-F√≠gado de vaca, cru
-F√≠gado de vaca, frito, sem molho
-F√≠gado de vitela, cru
-F√≠gado de vitela, frito com banha e manteiga
-F√≠gado de vitela, frito, sem molho
-F√≠gado de vitela, grelhado
-Pasta de f√≠gado de porco (pat√©)
-F√≠gado, Pat√© caseiro de aves
-L√≠ngua de vaca, crua
-L√≠ngua de vaca, estufada, sem molho
+Coração de porco, cru
+Coração de porco, estufado com banha e margarina
+Coração de vaca, cru
+Coração de vaca, cozido
+Coração de vaca, estufado com banha e margarina
+Coração de vitela, cru
+Fígado de porco, cru
+Fígado de porco, frito com margarina e banha
+Fígado de porco, frito, sem molho
+Fígado de porco, grelhado
+Fígado de vaca, cru
+Fígado de vaca, frito, sem molho
+Fígado de vitela, cru
+Fígado de vitela, frito com banha e manteiga
+Fígado de vitela, frito, sem molho
+Fígado de vitela, grelhado
+Pasta de fígado de porco (paté)
+Fígado, Paté caseiro de aves
+Língua de vaca, crua
+Língua de vaca, estufada, sem molho
 Rim de carneiro, cru
 Rim de carneiro, frito com margarina
 Rim de porco, cru
 Rim de porco, frito com margarina
 Rim de vaca, cru
 Alheira crua
-Alheira cozida sem adi√ß√£o de sal
-Alheira grelhada sem adi√ß√£o de sal
+Alheira cozida sem adição de sal
+Alheira grelhada sem adição de sal
 Bacon
-Bacon grelhado sem adi√ß√£o de sal
-Chouri√ßo de carne de porco, magro, cru
-Chouri√ßo de carne de porco, magro, cozido sem adi√ß√£o de sal
-Chouri√ßo de carne de porco, magro, grelhado sem adi√ß√£o de sal
-Chouri√ßo de carne de porco, gordo, cru
-Chouri√ßo de sangue cru
-Chouri√ßo de sangue cozido sem adi√ß√£o de sal
+Bacon grelhado sem adição de sal
+Chouriço de carne de porco, magro, cru
+Chouriço de carne de porco, magro, cozido sem adição de sal
+Chouriço de carne de porco, magro, grelhado sem adição de sal
+Chouriço de carne de porco, gordo, cru
+Chouriço de sangue cru
+Chouriço de sangue cozido sem adição de sal
 Farinheira crua
-Farinheira cozida sem adi√ß√£o de sal
+Farinheira cozida sem adição de sal
 Fiambre
-Lingui√ßa
+Linguiça
 Morcela crua
-Morcela grelhada sem adi√ß√£o de sal
+Morcela grelhada sem adição de sal
 Mortadela
 Paio de lombo
 Paio de lombo entremeado
 Presunto
 Salame
-Salpic√£o
+Salpicão
 Salsicha fresca crua
 Salsicha fresca estufada com couve e azeite
 Salsicha fresca estufada com legumes e azeite
 Salsicha tipo Frankfurt
-Salsicha tipo Frankfurt frita (escorrido o √≥leo) sem adi√ß√£o de sal
-Salsicha tipo Frankfurt grelhada sem adi√ß√£o de sal
+Salsicha tipo Frankfurt frita (escorrido o óleo) sem adição de sal
+Salsicha tipo Frankfurt grelhada sem adição de sal
 Codorniz carne sem pele crua
 Codorniz com pele crua
 Codorniz com pele estufada com azeite
@@ -297,22 +297,22 @@ Peru Peito panado
 Peru Perna crua
 Peru Perna assada com margarina
 Peru Perna estufada com margarina
-Abr√≥tea crua
-Abr√≥tea cozida
+Abrótea crua
+Abrótea cozida
 Atum fresco cru
 Atum fresco, bife cozinhado com azeite e com vinho
 Atum fresco grelhado
-Atum conserva em √≥leo
+Atum conserva em óleo
 Bacalhau Fresco cru
 Bacalhau Fresco cozido
-Bacalhau √† Br√°s
-Bacalhau √† Gomes de S√°
+Bacalhau à Brás
+Bacalhau à Gomes de Sá
 Bacalhau assado no forno com azeite
 Bacalhau cozido
 Bacalhau filetes fritos
 Bacalhau grelhado
-Ca√ß√£o cru
-Ca√ß√£o frito
+Cação cru
+Cação frito
 Carapau cru
 Carapau frito
 Carapau grelhado
@@ -340,14 +340,14 @@ Garoupa crua
 Garoupa cozida
 Garoupa grelhada
 Goraz cru
-Goraz assado com cebola, tomate, azeite e √≥leo alimentar
+Goraz assado com cebola, tomate, azeite e óleo alimentar
 Goraz cozido
 Goraz grelhado
 Maruca crua
 Maruca cozida
-Pargo leg√≠timo cru
-Pargo leg√≠timo assado com cebola, tomate e azeite
-Pargo leg√≠timo cozido
+Pargo legítimo cru
+Pargo legítimo assado com cebola, tomate e azeite
+Pargo legítimo cozido
 Pargo mulato cru
 Pargo mulato assado com cebola, tomate e azeite
 Pargo mulato cozido
@@ -366,16 +366,16 @@ Robalo cru
 Robalo assado com cebola, azeite, banha e manteiga
 Robalo cozido
 Robalo grelhado
-Salm√£o cru
-Salm√£o cozido
-Salm√£o grelhado
+Salmão cru
+Salmão cozido
+Salmão grelhado
 Sardinha crua
 Sardinha frita
 Sardinha grelhada
 Solha crua
 Solha grelhada
 Pastel de bacalhau
-Rissol de camar√£o
+Rissol de camarão
 Arroz comum cru
 Arroz cozido simples
 Arroz de cenoura com azeite
@@ -391,20 +391,20 @@ Massa para lasanha cozida
 Pizza de queijo e tomate
 Pizza de queijo, tomate e fiambre
 Quiche Lorraine
-P√£o de centeio
-P√£o de centeio integral
-P√£o de milho
-P√£o de mistura de trigo e centeio
-P√£o de trigo
-P√£o de trigo integral
-P√£o de leite
+Pão de centeio
+Pão de centeio integral
+Pão de milho
+Pão de mistura de trigo e centeio
+Pão de trigo
+Pão de trigo integral
+Pão de leite
 Biscoitos, argolas
 Biscoitos caseiros
-Biscoitos lim√£o
-Biscoitos, l√≠nguas de gato
-Biscoitos, l√≠nguas de veado
+Biscoitos limão
+Biscoitos, línguas de gato
+Biscoitos, línguas de veado
 Biscoitos, palitos la Reine
-Bolacha √°gua e sal
+Bolacha água e sal
 Bolacha aveia
 Bolacha baunilha
 Bolacha "Belga"
@@ -420,29 +420,29 @@ Bolo de bolacha Maria
 Bolo de chocolate
 Bolo de coco
 Bolo ferradura
-Bolo ingl√™s
+Bolo inglês
 Bolo-Rei
 Croissant
 "Donut"
 "Donut" recheado com doce de fruta
-√âclair de chocolate
-Jesu√≠ta
+Éclair de chocolate
+Jesuíta
 Madalena
 Merengue
-Pastel de feij√£o
+Pastel de feijão
 Pastel de nata
 Queque
-Tarte de ma√ß√£
-Tarte de ma√ß√£ e p√™ssego
+Tarte de maçã
+Tarte de maçã e pêssego
 Torta de chocolate e chantilly
 Queijada
 Batata crua
 Batata assada no forno
 Batata cozida
-Batata estufada com cebola, azeite e √≥leo alimentar
+Batata estufada com cebola, azeite e óleo alimentar
 Batata frita caseira (em palitos)
 Batata frita, de pacote (em rodelas)
-Batata, pur√©
+Batata, puré
 Alface crua
 Cenoura crua
 Cenoura cozida
@@ -457,8 +457,8 @@ Rabanete cru
 Salsa crua
 Tomate cru
 Tomate conserva ao natural
-Anan√°s 
-Anan√°s, conserva em calda de a√ß√∫car
+Ananás 
+Ananás, conserva em calda de açúcar
 Banana
 Cereja
 Cereja, cristalizada
@@ -468,132 +468,132 @@ Figo cristalizado
 Figo seco
 Kiwi
 Laranja
-Lim√£o
-Ma√ß√£ com casca
-Ma√ß√£ sem casca
-Ma√ß√£ seca
-Ma√ß√£ cozida com a√ß√∫car
-Ma√ß√£ cozida sem a√ß√∫car
-Ma√ß√£ assada com a√ß√∫car
-Ma√ß√£ assada sem a√ß√∫car
+Limão
+Maçã com casca
+Maçã sem casca
+Maçã seca
+Maçã cozida com açúcar
+Maçã cozida sem açúcar
+Maçã assada com açúcar
+Maçã assada sem açúcar
 Manga
 Melancia
-Mel√£o
+Melão
 Meloa
 Morango
 Nectarina
-N√™spera
+Nêspera
 Papaia
-P√™ra
-P√™ra cozida com a√ß√∫car
-P√™ra cozida sem a√ß√∫car
-P√™ra conserva em calda de a√ß√∫car
-P√™ra cristalizada
-P√™ssego
-P√™ssego, conserva em calda de a√ß√∫car
-T√¢mara seca
-T√¢ngera
+Pêra
+Pêra cozida com açúcar
+Pêra cozida sem açúcar
+Pêra conserva em calda de açúcar
+Pêra cristalizada
+Pêssego
+Pêssego, conserva em calda de açúcar
+Tâmara seca
+Tângera
 Tangerina
 Toranja
 Uva branca
 Uva tinta
 Uva seca (passas)
-Am√™ndoa, miolo, com pele
-Am√™ndoa, miolo, torrada, sem pele
-Avel√£, miolo
+Amêndoa, miolo, com pele
+Amêndoa, miolo, torrada, sem pele
+Avelã, miolo
 Azeitona
 Noz, miolo
 Azeite
-√ìleo alimentar
+Óleo alimentar
 Manteiga com sal
 Manteiga sem sal
-A√ß√∫car amarelo
-A√ß√∫car branco
+Açúcar amarelo
+Açúcar branco
 Doce Cereja
 Doce Damasco
 Doce Framboesa
 Doce Ginja
-Doce Ma√ß√£
+Doce Maçã
 Doce Morango
-Doce P√™ssego
+Doce Pêssego
 Marmelada
-Pastilha el√°stica
-Rebu√ßados
+Pastilha elástica
+Rebuçados
 Mel
-Chocolate em barra, culin√°ria
-Chocolate em p√≥
+Chocolate em barra, culinária
+Chocolate em pó
 Chocolate de leite
 Arroz doce
-Gelado de √°gua (sorvete)
-Gelatina preparada com anan√°s em conserva
+Gelado de água (sorvete)
+Gelatina preparada com ananás em conserva
 Gelatina preparada com laranja e sumo de laranja
 Leite creme
 Mousse de chocolate
 Pudim de leite e ovos
 Pudim flan caseiro
-Pudim instant√¢neo em p√≥
+Pudim instantâneo em pó
 Rabanada
 Sonhos
-Alco√≥licas Destiladas - Aguardente
-Alco√≥licas Destiladas - Brandy
-Alco√≥licas Destiladas, Gin - Rum- Whisky
-Alco√≥licas Destiladas, Licor de ginja
-Alco√≥licas Destiladas, Licor simples
-Alco√≥licas Fermentadas - Cerveja branca
-Alco√≥licas Fermentadas - Cerveja preta
-Alco√≥licas Fermentadas - Cerveja sem √°lcool
-Alco√≥licas Fermentadas - Sidra (vinho de ma√ß√£)
-Alco√≥licas Fermentadas - Vinho espumante Extra Bruto
-Alco√≥licas Fermentadas - Vinho espumante Doce
-Alco√≥licas Fermentadas - Vinho espumante Meio Seco
-Alco√≥licas Fermentadas - Vinho espumante Seco
-Alco√≥licas Fermentadas - Vinho generoso da Madeira
-Alco√≥licas Fermentadas - Vinho generoso do Porto, doce
-Alco√≥licas Fermentadas - Vinho generoso do Porto, meio seco
-Alco√≥licas Fermentadas - Vinho generoso do Porto, seco
-Alco√≥licas Fermentadas - Vinho maduro branco
-Alco√≥licas Fermentadas - Vinho maduro palhete
-Alco√≥licas Fermentadas - Vinho maduro tinto
-Alco√≥licas Fermentadas - Vinho ros√©
-Alco√≥licas Fermentadas - Vinho verde branco
-Alco√≥licas Fermentadas - Vinho verde tinto
-N√£o Alco√≥licas, √Ågua - √Ågua da rede p√∫blica
-N√£o Alco√≥licas, √Ågua mineral natural, "Luso"
-N√£o Alco√≥licas, √Ågua mineral natural gasocarb√≥nica, "Pedras Salgadas"
-N√£o Alco√≥licas, √Ågua mineral natural gaseificada, "Piz√µes-Moura"
-N√£o Alco√≥licas, √Ågua mineral natural gaseificada, "Vimeiro"
-N√£o Alco√≥licas, Bebida Refrigerante cola
-N√£o Alco√≥licas, Bebida Refrigerante cola light
-N√£o Alco√≥licas, Bebida Refrigerante gasosa
-N√£o Alco√≥licas, Bebida Refrigerante de laranja
-N√£o Alco√≥licas, Caf√© (Infus√£o) - bica
-N√£o Alco√≥licas, Caf√© Infus√£o - caf√© de cafeteira
-N√£o Alco√≥licas, Caf√© Infus√£o - carioca
-N√£o Alco√≥licas, Caf√© sol√∫vel (p√≥) com cafe√≠na
-N√£o Alco√≥licas, Caf√© sol√∫vel (p√≥) descafeinado
-N√£o Alco√≥licas, Ch√°, infus√£o, preto
-N√£o Alco√≥licas, Ch√°, infus√£o, verde
-N√£o Alco√≥licas, Ch√°, infus√£o, de ervas
-N√£o Alco√≥licas, N√©ctar alperce
-N√£o Alco√≥licas, N√©ctar anan√°s
-N√£o Alco√≥licas, N√©ctar laranja
-N√£o Alco√≥licas, N√©ctar ma√ß√£
-N√£o Alco√≥licas, N√©ctar p√™ra
-N√£o Alco√≥licas, N√©ctar p√™ssego
-N√£o Alco√≥licas, N√©ctar "tutti - frutti"
-N√£o Alco√≥licas, N√©ctar "light" ma√ß√£
-N√£o Alco√≥licas, N√©ctar "light" p√™ssego
-N√£o Alco√≥licas, Sumo de frutos 100%, anan√°s
-N√£o Alco√≥licas, Sumo de frutos 100%, laranja 
-N√£o Alco√≥licas, Sumo de frutos 100%, ma√ß√£
-N√£o Alco√≥licas, Sumo de frutos 100%, p√™ssego
-N√£o Alco√≥licas, Sumo de frutos 100%, tomate
-N√£o Alco√≥licas, Sumo de frutos concentrado, anan√°s
-N√£o Alco√≥licas, Sumo de frutos concentrado, laranja
-N√£o Alco√≥licas, Sumo fresco de lim√£o
-Sopa ab√≥bora
-Sopa agri√£o
-Sopa √† lavrador
+Alcoólicas Destiladas - Aguardente
+Alcoólicas Destiladas - Brandy
+Alcoólicas Destiladas, Gin - Rum- Whisky
+Alcoólicas Destiladas, Licor de ginja
+Alcoólicas Destiladas, Licor simples
+Alcoólicas Fermentadas - Cerveja branca
+Alcoólicas Fermentadas - Cerveja preta
+Alcoólicas Fermentadas - Cerveja sem álcool
+Alcoólicas Fermentadas - Sidra (vinho de maçã)
+Alcoólicas Fermentadas - Vinho espumante Extra Bruto
+Alcoólicas Fermentadas - Vinho espumante Doce
+Alcoólicas Fermentadas - Vinho espumante Meio Seco
+Alcoólicas Fermentadas - Vinho espumante Seco
+Alcoólicas Fermentadas - Vinho generoso da Madeira
+Alcoólicas Fermentadas - Vinho generoso do Porto, doce
+Alcoólicas Fermentadas - Vinho generoso do Porto, meio seco
+Alcoólicas Fermentadas - Vinho generoso do Porto, seco
+Alcoólicas Fermentadas - Vinho maduro branco
+Alcoólicas Fermentadas - Vinho maduro palhete
+Alcoólicas Fermentadas - Vinho maduro tinto
+Alcoólicas Fermentadas - Vinho rosé
+Alcoólicas Fermentadas - Vinho verde branco
+Alcoólicas Fermentadas - Vinho verde tinto
+Não Alcoólicas, Água - Água da rede pública
+Não Alcoólicas, Água mineral natural, "Luso"
+Não Alcoólicas, Água mineral natural gasocarbónica, "Pedras Salgadas"
+Não Alcoólicas, Água mineral natural gaseificada, "Pizões-Moura"
+Não Alcoólicas, Água mineral natural gaseificada, "Vimeiro"
+Não Alcoólicas, Bebida Refrigerante cola
+Não Alcoólicas, Bebida Refrigerante cola light
+Não Alcoólicas, Bebida Refrigerante gasosa
+Não Alcoólicas, Bebida Refrigerante de laranja
+Não Alcoólicas, Café (Infusão) - bica
+Não Alcoólicas, Café Infusão - café de cafeteira
+Não Alcoólicas, Café Infusão - carioca
+Não Alcoólicas, Café solúvel (pó) com cafeína
+Não Alcoólicas, Café solúvel (pó) descafeinado
+Não Alcoólicas, Chá, infusão, preto
+Não Alcoólicas, Chá, infusão, verde
+Não Alcoólicas, Chá, infusão, de ervas
+Não Alcoólicas, Néctar alperce
+Não Alcoólicas, Néctar ananás
+Não Alcoólicas, Néctar laranja
+Não Alcoólicas, Néctar maçã
+Não Alcoólicas, Néctar pêra
+Não Alcoólicas, Néctar pêssego
+Não Alcoólicas, Néctar "tutti - frutti"
+Não Alcoólicas, Néctar "light" maçã
+Não Alcoólicas, Néctar "light" pêssego
+Não Alcoólicas, Sumo de frutos 100%, ananás
+Não Alcoólicas, Sumo de frutos 100%, laranja 
+Não Alcoólicas, Sumo de frutos 100%, maçã
+Não Alcoólicas, Sumo de frutos 100%, pêssego
+Não Alcoólicas, Sumo de frutos 100%, tomate
+Não Alcoólicas, Sumo de frutos concentrado, ananás
+Não Alcoólicas, Sumo de frutos concentrado, laranja
+Não Alcoólicas, Sumo fresco de limão
+Sopa abóbora
+Sopa agrião
+Sopa à lavrador
 Sopa, caldo verde
 Sopa, canja de galinha
 Sopa cebola
@@ -604,20 +604,19 @@ Sopa de cozido
 Sopa ervilhas
 Sopa espinafres
 Sopa favas
-Sopa feij√£o verde
-Sopa gr√£o com espinafres
+Sopa feijão verde
+Sopa grão com espinafres
 Sopa juliana
 Sopa peixe com massa
-Sopa, pur√© de feij√£o
-Sopa, pur√© de vegetais
+Sopa, puré de feijão
+Sopa, puré de vegetais
 Maionese caseira, com ovo e azeite
-Maionese caseira, com ovo e √≥leo de soja
-Molho "B√©chamel" com manteiga
-Molho "B√©chamel" com margarina
+Maionese caseira, com ovo e óleo de soja
+Molho "Béchamel" com manteiga
+Molho "Béchamel" com margarina
 Molho de tomate
 Molho de tomate, "Ketchup"
 Molho verde
-Canela mo√≠da
+Canela moída
 Sal
 Vinagre
-
