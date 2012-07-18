@@ -1,0 +1,23 @@
+alcoolicas destiladas aguardente
+alcoolicas destiladas brandy
+alcoolicas destiladas gin rum whisky
+alcoolicas destiladas licor ginja
+alcoolicas destiladas licor simples
+alcoolicas fermentadas cerveja branca
+alcoolicas fermentadas cerveja preta
+alcoolicas fermentadas cerveja sem alcool
+alcoolicas fermentadas sidra vinho maca
+alcoolicas fermentadas vinho espumante extra bruto
+alcoolicas fermentadas vinho espumante doce
+alcoolicas fermentadas vinho espumante meio seco
+alcoolicas fermentadas vinho espumante seco
+alcoolicas fermentadas vinho generoso madeira
+alcoolicas fermentadas vinho generoso porto doce
+alcoolicas fermentadas vinho generoso porto meio seco
+alcoolicas fermentadas vinho generoso porto seco
+alcoolicas fermentadas vinho maduro branco
+alcoolicas fermentadas vinho maduro palhete
+alcoolicas fermentadas vinho maduro tinto
+alcoolicas fermentadas vinho rose
+alcoolicas fermentadas vinho verde branco
+alcoolicas fermentadas vinho verde tinto

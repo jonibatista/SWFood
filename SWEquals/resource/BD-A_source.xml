@@ -1,0 +1,159 @@
+<xml version="1.0" encoding="utf-8">
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">borba</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">casa</propriedade> 
+	<propriedade atributo="quantidade">0.250</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">casa</propriedade> 
+	<propriedade atributo="quantidade">0.5</propriedade> 
+	<propriedade atributo="grandeza">lt</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">casa</propriedade> 
+	<propriedade atributo="quantidade">1</propriedade> 
+	<propriedade atributo="grandeza">lt</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">casa</propriedade> 
+	<desconhecido>copo</desconhecido> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">esteva</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<desconhecido>lavradores</desconhecido> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">marques borba</propriedade> 
+	<propriedade atributo="quantidade">0.375</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">marques borba</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">montado</propriedade> 
+	<propriedade atributo="quantidade">0.375</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">branco</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">montado</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">montado</propriedade> 
+	<propriedade atributo="quantidade">375</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">monte velho</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">branco</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">monte velho</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">olho mocho</propriedade> 
+	<propriedade atributo="geral">reserva</propriedade> 
+	<propriedade atributo="ano">2006</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">pias</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">branco</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">planalto</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">branco</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">quinta aveledada</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">branco</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">quinta carmo</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">quinta carmo</propriedade> 
+	<propriedade atributo="cor">branco</propriedade> 
+	<propriedade atributo="quantidade">075</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">quinta portal</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">rocim</propriedade> 
+	<propriedade atributo="ano">2005</propriedade>
+</linha>
+<linha>
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="marca">tapada herd. coe</propriedade> 
+	<propriedade atributo="quantidade">0.75</propriedade> 
+	<propriedade atributo="grandeza">cl</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+</xml>

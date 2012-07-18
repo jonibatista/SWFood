@@ -1,0 +1,173 @@
+<xml version="1.0" encoding="utf-8">
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">destiladas</propriedade> 
+	<produto familia="bebida">aguardente</produto>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">destiladas</propriedade> 
+	<produto familia="bebida">brandy</produto>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">destiladas</propriedade> 
+	<produto familia="bebida">gin rum whisky</produto>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">destiladas</propriedade> 
+	<produto familia="bebida">licor</produto> 
+	<propriedade atributo="sabor">ginja</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">destiladas</propriedade> 
+	<produto familia="bebida">licor</produto> 
+	<propriedade atributo="classificacao">simples</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">cerveja</produto> 
+	<propriedade atributo="cor">branca</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">cerveja</produto> 
+	<propriedade atributo="cor">preta</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">cerveja</produto> 
+	<propriedade atributo="classificacao">sem alcool</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<desconhecido>sidra</desconhecido> 
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="sabor">maca</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho espumante</produto> 
+	<propriedade atributo="classificacao">extra bruto</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho espumante</produto> 
+	<propriedade atributo="classificacao">doce</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho espumante</produto> 
+	<propriedade atributo="calorica">meio</propriedade> 
+	<propriedade atributo="classificacao">seco</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho espumante</produto> 
+	<propriedade atributo="classificacao">seco</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<desconhecido>generoso</desconhecido> 
+	<propriedade atributo="origem">madeira</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<desconhecido>generoso</desconhecido> 
+	<propriedade atributo="origem">porto</propriedade> 
+	<propriedade atributo="classificacao">doce</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<desconhecido>generoso</desconhecido> 
+	<propriedade atributo="origem">porto</propriedade> 
+	<propriedade atributo="calorica">meio</propriedade> 
+	<propriedade atributo="classificacao">seco</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<desconhecido>generoso</desconhecido> 
+	<propriedade atributo="origem">porto</propriedade> 
+	<propriedade atributo="classificacao">seco</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="classificacao">maduro</propriedade> 
+	<propriedade atributo="cor">branco</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="classificacao">maduro</propriedade> 
+	<propriedade atributo="cor">palhete</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="classificacao">maduro</propriedade> 
+	<propriedade atributo="cor">tinto</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="cor">rose</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="cor">verde branco</propriedade>
+</linha>
+
+<linha>
+	<propriedade atributo="tipobebida">alcoolicas</propriedade> 
+	<propriedade atributo="tipoprocessamento">fermentadas</propriedade> 
+	<produto familia="bebida">vinho</produto> 
+	<propriedade atributo="cor">verde tinto</propriedade>
+</linha>
+</xml>

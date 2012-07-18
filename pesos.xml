@@ -1,0 +1,16 @@
+<xml version="1.0" encoding="utf-8">
+<classe familia="bebidas">80</classe>
+<propriedade atributo="geral">5</propriedade>
+<propriedade atributo="grandeza">20</propriedade>
+<propriedade atributo="quantidade">20</propriedade>
+<propriedade atributo="cor">40</propriedade>
+<propriedade atributo="ano">5</propriedade>
+<propriedade atributo="origem">10</propriedade>
+<propriedade atributo="tipoprocessamento">20</propriedade>
+<propriedade atributo="sabor">20</propriedade>
+<propriedade atributo="classificacao">5</propriedade>
+<propriedade atributo="calorica">5</propriedade>
+<propriedade atributo="tipobebida">10</propriedade>
+<propriedade atributo="marca">30</propriedade>
+<desconhecido>5</desconhecido>
+</xml>

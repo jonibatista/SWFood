@@ -1,0 +1,173 @@
+<xml version="1.0" encoding="utf-8">
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="destiladas"/> 
+	<produto valor="aguardente" familia="classe_bebida"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="destiladas"/> 
+	<produto valor="brandy" familia="classe_bebida"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="destiladas"/> 
+	<produto valor="gin rum whisky" familia="classe_bebida"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="destiladas"/> 
+	<produto valor="licor" familia="classe_bebida"/> 
+	<propriedade_sabor valor="ginja"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="destiladas"/> 
+	<produto valor="licor" familia="classe_bebida"/> 
+	<propriedade_classificacao valor="simples"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="cerveja" familia="classe_bebida"/> 
+	<propriedade_cor valor="branca"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="cerveja" familia="classe_bebida"/> 
+	<propriedade_cor valor="preta"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="cerveja" familia="classe_bebida"/> 
+	<propriedade_classificacao valor="sem alcool"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<desconhecido valor="sidra"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<propriedade_sabor valor="maca"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho espumante" familia="classe_bebida"/> 
+	<propriedade_classificacao valor="extra bruto"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho espumante" familia="classe_bebida"/> 
+	<propriedade_classificacao valor="doce"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho espumante" familia="classe_bebida"/> 
+	<propriedade_calorica valor="meio"/> 
+	<propriedade_classificacao valor="seco"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho espumante" familia="classe_bebida"/> 
+	<propriedade_classificacao valor="seco"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<desconhecido valor="generoso"/> 
+	<propriedade_origem valor="madeira"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<desconhecido valor="generoso"/> 
+	<propriedade_origem valor="porto"/> 
+	<propriedade_classificacao valor="doce"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<desconhecido valor="generoso"/> 
+	<propriedade_origem valor="porto"/> 
+	<propriedade_calorica valor="meio"/> 
+	<propriedade_classificacao valor="seco"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<desconhecido valor="generoso"/> 
+	<propriedade_origem valor="porto"/> 
+	<propriedade_classificacao valor="seco"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<propriedade_classificacao valor="maduro"/> 
+	<propriedade_cor valor="branco"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<propriedade_classificacao valor="maduro"/> 
+	<propriedade_cor valor="palhete"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<propriedade_classificacao valor="maduro"/> 
+	<propriedade_cor valor="tinto"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<propriedade_cor valor="rose"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<propriedade_cor valor="verde branco"/>
+</linha>
+
+<linha>
+	<propriedade_tipobebida valor="alcoolicas"/> 
+	<propriedade_tipoprocessamento valor="fermentadas"/> 
+	<produto valor="vinho" familia="classe_bebida"/> 
+	<propriedade_cor valor="verde tinto"/>
+</linha>
+</xml>

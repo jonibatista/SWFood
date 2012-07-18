@@ -1,0 +1,57 @@
+alcoolicas destiladas  aguardente
+alcoolicas destiladas  brandy
+alcoolicas destiladas gin  rum whisky
+alcoolicas destiladas licor de ginja
+alcoolicas destiladas licor simples
+alcoolicas fermentadas  cerveja branca
+alcoolicas fermentadas  cerveja preta
+alcoolicas fermentadas  cerveja sem alcool
+alcoolicas fermentadas  sidra vinho de maa
+alcoolicas fermentadas  vinho espumante extra bruto
+alcoolicas fermentadas  vinho espumante doce
+alcoolicas fermentadas  vinho espumante meio seco
+alcoolicas fermentadas  vinho espumante seco
+alcoolicas fermentadas  vinho generoso da madeira
+alcoolicas fermentadas  vinho generoso do porto doce
+alcoolicas fermentadas  vinho generoso do porto meio seco
+alcoolicas fermentadas  vinho generoso do porto seco
+alcoolicas fermentadas  vinho maduro branco
+alcoolicas fermentadas  vinho maduro palhete
+alcoolicas fermentadas  vinho maduro tinto
+alcoolicas fermentadas  vinho rose
+alcoolicas fermentadas  vinho verde branco
+alcoolicas fermentadas  vinho verde tinto
+nao alcoolicas agua  agua da rede publica
+nao alcoolicas agua mineral natural luso
+nao alcoolicas agua mineral natural gasocarbonica pedras salgadas
+nao alcoolicas agua mineral natural gaseificada pizoesmoura
+nao alcoolicas agua mineral natural gaseificada vimeiro
+nao alcoolicas bebida refrigerante cola
+nao alcoolicas bebida refrigerante cola light
+nao alcoolicas bebida refrigerante gasosa
+nao alcoolicas bebida refrigerante de laranja
+nao alcoolicas cafe infusao  bica
+nao alcoolicas cafe infusao  cafe de cafeteira
+nao alcoolicas cafe infusao  carioca
+nao alcoolicas cafe soluvel po com cafeina
+nao alcoolicas cafe soluvel po descafeinado
+nao alcoolicas cha infusao preto
+nao alcoolicas cha infusao verde
+nao alcoolicas cha infusao de ervas
+nao alcoolicas nectar alperce
+nao alcoolicas nectar ananas
+nao alcoolicas nectar laranja
+nao alcoolicas nectar maa
+nao alcoolicas nectar pera
+nao alcoolicas nectar pessego
+nao alcoolicas nectar tutti  frutti
+nao alcoolicas nectar light maa
+nao alcoolicas nectar light pessego
+nao alcoolicas sumo de frutos 100% ananas
+nao alcoolicas sumo de frutos 100% laranja 
+nao alcoolicas sumo de frutos 100% maa
+nao alcoolicas sumo de frutos 100% pessego
+nao alcoolicas sumo de frutos 100% tomate
+nao alcoolicas sumo de frutos concentrado ananas
+nao alcoolicas sumo de frutos concentrado laranja
+nao alcoolicas sumo fresco de limao
